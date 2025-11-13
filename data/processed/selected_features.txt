@@ -1,0 +1,17 @@
+make_year
+mileage_kmpl
+engine_cc
+owner_count
+price_per_year
+fuel_type_Electric
+fuel_type_Petrol
+brand_Chevrolet
+brand_Ford
+brand_Honda
+brand_Hyundai
+brand_Kia
+brand_Nissan
+brand_Tesla
+brand_Toyota
+brand_Volkswagen
+car_efficiency
